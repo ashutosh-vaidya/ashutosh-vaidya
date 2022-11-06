@@ -8,7 +8,8 @@
 
 - 📫 How to reach me: 
       [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshvaidya11)
- 
+      [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1296450/doctorav) 
+      
 ---
 
 ### 🛠 Languages and Tools :
