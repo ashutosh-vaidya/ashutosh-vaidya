@@ -1,14 +1,19 @@
 <h1 align="left">Hi there, hello... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :man_technologist: About Me:
-- 🔭 I am Full Stack Developer
-- 🌱 I’m currently learning machine learning, statistics, and data science.
+- 🔭 I am Full Stack Developer (C#,Silverlight,WPF,WCF,Angular,REST API, MS SQL)
+- 🌱 I’m currently learning python, machine learning, statistics, and data science.
 - :earth_asia: I am sharing my experience and knowledge through my linkedin posts and github community repo.
-- 💬 Ask me about programming, python, SQL or data science related queries.
 
-- 📫 How to reach me: 
-      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshvaidya11)
-      [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1296450/doctorav) 
+### 💬 Ask me about :
+- programming, python, SQL or data science related queries.
+- freelancing related to python, SQL, ML.
+- Open Source contribution
+
+### 📫 How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashutosh.vaidya1190@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshvaidya11)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1296450/doctorav) 
       
 ---
 
