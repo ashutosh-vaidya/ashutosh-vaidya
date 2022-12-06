@@ -14,9 +14,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashutosh.vaidya1190@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshvaidya11)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1296450/doctorav) 
-
-
-[![](https://visitcount.itsvg.in/api?id=ashutosh-vaidya&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
       
 ---
 
