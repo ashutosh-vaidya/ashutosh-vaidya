@@ -10,8 +10,8 @@
 - freelancing related to python, SQL, ML.
 - Open Source contribution
 
-### :black_nib: My writings : 
-* Infinity in Python [Medium](https://medium.com/@ashutosh.vaidya1190/infinity-in-python-e5c86f9fbf1f) | [Code](https://github.com/ashutosh-vaidya/community/blob/main/Articles/Infinity%20in%20python/Infinity_in_Python.ipynb)
+### :black_nib: My writings:
+https://github.com/ashutosh-vaidya/community/tree/main/Articles
 
 ### 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashutosh.vaidya1190@gmail.com)
