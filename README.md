@@ -4,6 +4,7 @@
 - 🔭 I am Full Stack Developer (C#,Silverlight,WPF,WCF,Angular,REST API, MS SQL)
 - 🌱 I’m currently learning python, machine learning, statistics, and data science.
 - :earth_asia: I am sharing my experience and knowledge through my linkedin posts and github community repo.
+- Currently actively working on [100 Days of Python](https://github.com/ashutosh-vaidya/100-Days-of-Python)
 
 ### 💬 Ask me about :
 - programming, python, SQL or data science related queries.
