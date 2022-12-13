@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning python, machine learning, statistics, and data science.
 - :earth_asia: I am sharing my experience and knowledge through my linkedin posts and github community repo.
 - Currently actively working on [100 Days of Python](https://github.com/ashutosh-vaidya/100-Days-of-Python)
+- Check out my assignment and project work as a part of iNeuron's [Full Stack Data Science 2.0](https://github.com/ashutosh-vaidya/iNeuron)
 
 ### 💬 Ask me about :
 - programming, python, SQL or data science related queries.
