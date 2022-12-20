@@ -13,7 +13,7 @@
 - Open Source contribution
 
 ### :black_nib: My writings:
-I frequently write on [Medium](https://medium.com/@ashutosh.vaidya1190) and [LinkedIn](https://www.linkedin.com/in/ashutoshvaidya11). I keep all my writing resources and keep it up to date here: [My-Writings](https://github.com/ashutosh-vaidya/My-Writings). If you Star this repo I would be much appreciated and motivated to write more meaningful content and contribute to society.
+I frequently write on [Medium](https://medium.com/@ashutosh.vaidya1190) and [LinkedIn](https://www.linkedin.com/in/ashutoshvaidya11). I keep all my article links, writing resources here: [My-Writings](https://github.com/ashutosh-vaidya/My-Writings). If you Star this repo I would be much appreciated and motivated to write more meaningful content and contribute to society.
 
 ### 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashutosh.vaidya1190@gmail.com)
