@@ -4,7 +4,6 @@
 - 🔭 I am Full Stack Developer (C#,Silverlight,WPF,WCF,Angular,REST API, MS SQL)
 - 🌱 I’m currently learning python, machine learning, statistics, and data science.
 - :earth_asia: I am sharing my experience and knowledge through my linkedin posts and github community repo.
-- Currently actively working towards the goal of making to the world of data science by learning machine learning, deep learning and 
 - Check out my assignment and project work as a part of iNeuron's [Full Stack Data Science 2.0](https://github.com/ashutosh-vaidya/iNeuron)
 
 ### 💬 Ask me about :
