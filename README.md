@@ -61,9 +61,4 @@ If you Star this repo I would be much appreciated and motivated to write more me
 </p>
 
 ---
-      
-### 🔥 My Github Stats:       
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh-vaidya&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutosh-vaidya&theme=dark)](https://git.io/streak-stats)
 
